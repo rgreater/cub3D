@@ -1,8 +1,5 @@
-/********************************/
-|  LO AND BEHOLD, THIS IS CUB3D  |
-|                                |
-|  made by: rgreater             |
-/********************************/
+This is cub3D, a small Wolfenstein3D-like game without enemies, weapons and any goal or purpose.
+Basically, all you can do is just walk around.
 
 How do I play?
 
