@@ -1,6 +1,8 @@
 This is cub3D, a small Wolfenstein3D-like game without enemies, weapons and any goal or purpose.
 Basically, all you can do is just walk around.
 
+![Screenshot](https://github.com/rgreater/cub3D/blob/master/screenshot.jpg)
+
 ## How do I play?
 
 1. Run `make`.
