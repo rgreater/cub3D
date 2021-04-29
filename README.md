@@ -6,7 +6,7 @@ How do I play?
 1. Run "make".
 2. ./cub3D map_name.
 
-  ./cub3D map_name --save
+  "./cub3D map_name --save"
 will save a screenshot in .bmp format.
 
 It will be saved in the same folder the map is located.
