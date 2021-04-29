@@ -1,15 +1,16 @@
 This is cub3D, a small Wolfenstein3D-like game without enemies, weapons and any goal or purpose.
 Basically, all you can do is just walk around.
 
-How do I play?
+## How do I play?
 
-1. Run "make".
-2. ./cub3D map_name.
+1. Run `make`.
+2. `./cub3D map_name`.
 
-  "./cub3D map_name --save"
+## Oh, and you can save a screenshot of the first frame!
+`./cub3D map_name --save`
 will save a screenshot in .bmp format.
 
-It will be saved in the same folder the map is located.
+It will be saved in the directory of the map.
 
 
 I've prepared some textures in the "textures" folder.
